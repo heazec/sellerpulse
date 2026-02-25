@@ -2,7 +2,7 @@
 
 **An AI-powered weekly business briefing for small business owners.**
 
-Built by Heather Zechter | [Live Demo](https://sellerpulse.vercel.app) | Square APM Work Sample, February 2026
+Built by Heather Zechter | [Live Demo](https://sellerpulse-gxlm.vercel.app/) | Square APM Work Sample, February 2026
 
 ---
 
